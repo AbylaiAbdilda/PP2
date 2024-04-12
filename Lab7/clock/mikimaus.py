@@ -24,7 +24,7 @@ def blitRotate(surf, image, pos, originPos, angle):
 
 pygame.init()
 
-clocks = pygame.image.load("mainclock.png")
+clocks = pygame.image.load("mainclock.png.jpeg")
 minutes = pygame.image.load('minutes.png')
 seconds = pygame.image.load('seconds.png')
 
